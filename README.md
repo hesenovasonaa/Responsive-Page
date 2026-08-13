@@ -85,7 +85,7 @@ yerləşdirilmişdir.
 
 ---
 
-## ⚡ Revolutionary Editor
+##  Revolutionary Editor
 
 Bu bölmədə layihənin əsas xüsusiyyətlərini təqdim edən:
 
@@ -97,7 +97,7 @@ yerləşdirilmişdir.
 
 ---
 
-## 🧰 Benefits bölməsi
+##  Benefits bölməsi
 
 Benefits bölməsində müxtəlif xüsusiyyətləri təqdim edən kartlar yaradılmışdır.
 
@@ -114,7 +114,7 @@ Tablet və Mobile görünüşlərində isə elementlərin yerləşməsi ekran ö
 
 ---
 
-## 👥 Community bölməsi
+##  Community bölməsi
 
 Community bölməsində Fork haqqında fikirlərin təqdim edildiyi kartlar yerləşdirilmişdir.
 
@@ -129,7 +129,7 @@ Desktop görünüşündə kartlar çoxsütunlu grid formasında, daha kiçik ekr
 
 ---
 
-## 💳 Pricing bölməsi
+##  Pricing bölməsi
 
 Pricing bölməsində 4 fərqli abunəlik planı yaradılmışdır:
 
